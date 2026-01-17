@@ -1,0 +1,2 @@
+# Ignore templates folder - each template has its own prettier config
+templates/
