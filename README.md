@@ -19,6 +19,7 @@ A simple command-line tool to scaffold new projects at Heizen.
 - ORM - Drizzle (yes) / Prisma (kinda)
 - API Layer - trpc (but optional) + react-query
 - Email - Resend (maybe will switch to nodemailer)
+- Ratelimit - Upstash Redis
 
 ---
 
