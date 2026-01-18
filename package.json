@@ -1,5 +1,6 @@
 {
   "name": "create-heizen-app",
+  "type": "module",
   "version": "0.1.0",
   "private": true,
   "description": "Create Heizen App - Project templates and scaffolding",
@@ -19,6 +20,9 @@
   "config": {
     "commitizen": {
       "path": "cz-customizable"
+    },
+    "cz-customizable": {
+      "config": ".cz-config.cjs"
     }
   }
 }
